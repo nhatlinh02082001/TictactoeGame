@@ -1,0 +1,9 @@
+C:\Users\APC\OneDrive\Máy tính\LTGD\GameCaro\GameCaro\bin\Debug\GameCaro.exe.config
+C:\Users\APC\OneDrive\Máy tính\LTGD\GameCaro\GameCaro\bin\Debug\GameCaro.exe
+C:\Users\APC\OneDrive\Máy tính\LTGD\GameCaro\GameCaro\bin\Debug\GameCaro.pdb
+C:\Users\APC\OneDrive\Máy tính\LTGD\GameCaro\GameCaro\obj\Debug\GameCaro.csprojResolveAssemblyReference.cache
+C:\Users\APC\OneDrive\Máy tính\LTGD\GameCaro\GameCaro\obj\Debug\GameCaro.Form1.resources
+C:\Users\APC\OneDrive\Máy tính\LTGD\GameCaro\GameCaro\obj\Debug\GameCaro.Properties.Resources.resources
+C:\Users\APC\OneDrive\Máy tính\LTGD\GameCaro\GameCaro\obj\Debug\GameCaro.csproj.GenerateResource.Cache
+C:\Users\APC\OneDrive\Máy tính\LTGD\GameCaro\GameCaro\obj\Debug\GameCaro.exe
+C:\Users\APC\OneDrive\Máy tính\LTGD\GameCaro\GameCaro\obj\Debug\GameCaro.pdb
